@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 464 694" width="464" height="694">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1383 -166L537 -166L537 914L-1383 914Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M0 64L427 64L427 694L0 694L0 64Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="web dark" clip-path="url(#cp1)" style="opacity: 0.851">
+		<g id="Rectangle 1 copy 2">
+			<g id="Clip" clip-path="url(#cp2)">
+				<path id="brooke-cagle-TA6t4NbHCv4-unsplash" d="M0.7 0L463.3 0L463.3 693.4L0.7 693.4L0.7 0Z" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 666" width="488" height="666">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-879 -211L1041 -211L1041 869L-879 869Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M30 19L457 19L457 649L30 649L30 19Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="web dark" clip-path="url(#cp1)" style="opacity: 0.851">
+		<g id="Rectangle 1 copy">
+			<g id="Clip" clip-path="url(#cp2)">
+				<path id="photo-of-topless-woman-2838501" d="M0 0L488 0L488 666L0 666L0 0Z" />
+			</g>
+		</g>
+	</g>
+</svg>

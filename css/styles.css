@@ -1,0 +1,116 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+body {
+	font-family: 'Poppins', sans-serif;
+	background-color: #333;
+}
+.container {
+	width: 1140px;
+	margin: 0 auto;
+	padding-left: 30px;
+}
+
+.trek-list {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px 0;
+}
+.trek-item {
+	display: flex;
+	align-items: center;
+}
+.trek-item-first {
+	position: relative;
+	display: flex;
+	align-items: center;
+}
+.trek-button svg {
+	width: 20px;
+}
+.trek-button {
+	position: absolute;
+	right: 120px;
+	padding: 5px;
+	background-color: transparent;
+	border: none;
+	outline: none;
+}
+.trek-button:active {
+	background-color: red;
+	border-radius: 5px;
+}
+.trek-button svg path {
+	fill: #fff;
+}
+
+.trek-subtext {
+	width: 100%;
+	font-weight: 700;
+	color: #fff;
+}
+
+.trek-link {
+	text-decoration: none;
+	font-weight: 700;
+	color: #fff;
+	padding: 20px 0;
+	margin-left: 30px;
+	transition: 0.5s ease;
+}
+.trek-link:hover {
+	padding: 20px;
+	box-shadow: 0 5px 0 #fff;
+}
+.main {
+	margin: 30px 0 80px 0;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.main-text-section {
+	width: 40%;
+}
+.main-title {
+	font-size: 45px;
+	letter-spacing: 2px;
+	width: 50%;
+	color: #fff;
+}
+.main-text {
+	color: #fff;
+	line-height: 2;
+	margin-bottom: 50px;
+}
+.main-div {
+	display: flex;
+	align-items: center;
+}
+.main-div svg {
+	padding: 0;
+	margin: 0;	
+	width: 80px;
+}
+.main-div svg path {
+	fill: #fff;
+}
+.main-link {
+	color: #fff;
+	font-family: "Montserrat", sans-serif;
+	text-decoration: none;
+	font-size: 22px;
+	margin-right: 15px;
+	letter-spacing: 1px;
+	transition: 1s ease;
+}
+.img {
+	margin-left: 30px;
+}
+
+.main-link:hover {
+	margin-right: 100px;
+}
